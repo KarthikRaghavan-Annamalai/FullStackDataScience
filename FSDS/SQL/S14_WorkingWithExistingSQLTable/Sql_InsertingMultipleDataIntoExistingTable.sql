@@ -1,0 +1,14 @@
+-- INSERTING MULTIPLE DATA INTO EXISTING TABLE --
+
+-- INSERTING INTO A MULTIPLE ROW --
+
+USE sql_store;
+
+SELECT *
+FROM shippers;
+
+INSERT INTO shippers 
+VALUES  (DEFAULT,'Shipper1'),
+		(DEFAULT,'Shipper2'),
+		(DEFAULT,'Shipper3'),
+		(DEFAULT,'Shipper4');
