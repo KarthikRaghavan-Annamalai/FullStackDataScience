@@ -1,0 +1,13 @@
+We can think of Files as named locations on disk to store related information. They are used to permanently store data in a non-volatile memory (e.g. hard disk).
+
+Since Random Access Memory (RAM) is volatile i.e. it loses its data when the computer is turned off, it is wise to store the data on file in order to permanently have access to it.
+
+Normally, when we want to read from or write to a file, we need to open it first and when we are done reading or writing to the file, we close it so that any resource that the file is using tied is freed for other use.
+
+In Python, files are treated in two modes as text or binary. The file may be in the text or binary format, and each line of a file is ended with the special character.
+
+Hence, a file operation can be done in the following order.
+
+Open a file
+Read or write
+Close the file
