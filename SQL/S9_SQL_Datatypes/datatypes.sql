@@ -1,0 +1,8 @@
+-- DATA TYPES IN SQL
+
+-- INT
+-- DECIMAL(M,N)
+-- VARCHAR (M)
+-- DATE
+-- TIMESTAMP
+-- BLOB

@@ -1,0 +1,11 @@
+USE testdb;
+
+-- Constraints
+
+-- NOT NULL
+-- UNIQUE
+-- PRIMARY KEY
+-- FOREIGN KEY
+-- CHECK
+-- DEFAULT
+-- CREATE INDEX
