@@ -1,0 +1,7 @@
+Data Science and Machine has their roots stemming from Statistics.
+
+In order to be good at the concepts in Data Science and Machine, you need to understand the various statistical concepts required. In this session, we will dive into the these concepts and break them down for your understanding.
+
+We will first learn the theoretical concepts and then go to the lab session for practical hands-on demonstration of these concepts.
+
+There is also going to be project assignment for you to practice.
