@@ -9,3 +9,7 @@
   * Section 41,42,43<br>
   
 → Statistics
+→ Github
+→ AI-ML
+  * Machine Learning
+    --> Supervised Machine Learning
